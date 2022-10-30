@@ -1,0 +1,53 @@
+#!/bin/bash
+
+# Appel du fichier avec les variables de couleurs
+. /etc/update-motd.d/colors
+
+# Show OS version
+if [ -f /etc/os-release ]; then
+	source /etc/os-release
+	echo $PRETTY_NAME
+else
+	echo "Linux"
+fi
+
+# Récupère l'adresse IP du serveur
+ipaddr=`hostname -I | cut -d " " -f1`
+
+# Récupère le nombre de coeurs
+cores=`cat /proc/cpuinfo | grep -i "^processor" | wc -l`
+
+# Récupère la mémoire RAM SWAP Libre et Total
+memfree=`cat /proc/meminfo | grep MemFree | awk {'print $2'}`
+memtotal=`cat /proc/meminfo | grep MemTotal | awk {'print $2'}`
+swap_total=`cat /proc/meminfo | grep SwapTotal | awk {'print $2 " " $3'}`
+pourcentfree=$((($memfree * 100)/$memtotal))
+# Récupère le nombre de processus en exécution
+processes=`ps ax | wc -l | tr -d " "`
+# List of current connected users in SSH or console
+current_users=`who`
+# Server uptime
+uptime=`uptime -p`
+
+
+# Récupérer le loadavg
+read one five fifteen rest < /proc/loadavg
+
+# Affichage des variables
+echo ""
+echo "$GREEN Processors $NONE : $cores cores"
+echo "Processor load :	$one % (1min) / $five % (5min) / $fifteen % (15min)"
+echo "Memory load:	$memory_usage of $memory_total"
+echo ""
+echo "Memory load :	$(($memfree/1024))MB / $(($memtotal/1024))MB"
+echo "Swap load:	$swap_usage of $swap_total"
+echo ""
+echo "IP adress:	$ipaddr"
+echo "Current users:	$users"
+echo "Uptime :	$uptime"
+echo ""
+
+# Get disk usage (use 2s timeout for weak nfs mounts)
+timeout --signal=kill 2s df -h | grep -E "^(/dev/|Filesystem)"
+
+echo ""
