@@ -7,7 +7,7 @@
 # Récupération des infos sur le processeur
 proc=`cat /proc/cpuinfo | grep model | cut -c14- | sed -n "2 p"`
 # Supprime les espaces dans Avant/ Après
- proc=$(echo "${proc}" | sed 's/^ *//g')
+proc=$(echo "${proc}" | sed 's/^ *//g')
 # Récupère le nombre de coeurs
 coeurs=`cat /proc/cpuinfo | grep -i "^processor" | wc -l`
 # récupère la mémoire RAM SWAP Libre et Total
@@ -34,50 +34,50 @@ read one five fifteen rest < /proc/loadavg
 # Affichage des variables
 printf $GREEN
 printf "  Processeur :" 
-printf ""$NONE
+printf ""$OFF
 printf " $proc ($coeurs cores)" 
 printf "\n"
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "  Charge CPU :"
-printf ""$NONE
+printf ""$OFF
 printf " $one (1min) / $five (5min) / $fifteen (15min)"
 printf "\n"
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "  RAM        :"
-printf ""$NONE
+printf ""$OFF
 printf " $(($memfree/1024)) MB soit $pourcentfree%% Libre / $(($memtotal/1024)) MB Total"
 printf "\n"
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "  Processes  :"
-printf ""$NONE
+printf ""$OFF
 printf " $process"     
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "             Users logged in :"
-printf ""$NONE
+printf ""$OFF
 printf " $connecteduser     "
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "Swap:"
-printf ""$NONE
+printf ""$OFF
 printf " $swaptotal"
 printf "\n"
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "  Disk Usage :"
-printf ""$NONE
+printf ""$OFF
 printf " $diskused"
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "     Inodes Used :"
-printf ""$NONE
+printf ""$OFF
 printf " $inodeused%"
 printf "\n"
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "  Adresse IP :"  
-printf ""$LIGHT_RED 
+printf ""$B_RED 
 printf " $addrip"
-printf ""$NONE
+printf ""$OFF
 printf "\n"
-printf ""$LIGHT_GREEN
+printf ""$GREEN
 printf "  Uptime     :"
-printf ""$NONE
+printf ""$OFF
 printf " $uptime"
 printf "\n"
 printf "\n"
