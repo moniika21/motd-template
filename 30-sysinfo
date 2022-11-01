@@ -1,57 +1,75 @@
 #!/bin/bash
 
-# Appel du fichier avec les variables de couleurs
-. /etc/update-motd.d/colors
+# Color file to have color aliases
+source /etc/update-motd.d/colors
 
-# Show OS version
-if [ -f /etc/os-release ]; then
-	source /etc/os-release
-	echo $PRETTY_NAME
+# To test with custom color
+if [ -z "$1" ]; then
+	COLOR=$GREEN
 else
-	echo "Linux"
+	COLOR=$1
 fi
 
-# Récupère l'adresse IP du serveur
+# OS version
+if [ -f /etc/os-release ]; then
+	source /etc/os-release
+	os_version=$PRETTY_NAME
+else
+	os_version="Unknown OS"
+fi
+
+# Model
+model=`cat /proc/cpuinfo | grep -i "^Model" | awk -F": " '{print $2}'`
+
+# IP adress
 ipaddr=`hostname -I | cut -d " " -f1`
 
-# Récupère le nombre de coeurs
+# Date
+date=`date +"%a %b %d %Y, %I:%M:%S %p"`
+
+# Number of cores
 cores=`cat /proc/cpuinfo | grep -i "^processor" | wc -l`
 
-# Récupère la mémoire RAM SWAP Libre et Total
+# RAM memory and SWAP (free et total)
 memfree=`cat /proc/meminfo | grep MemFree | awk {'print $2'}`
+
 memtotal=`cat /proc/meminfo | grep MemTotal | awk {'print $2'}`
 swap_usage=`cat /proc/meminfo | grep SwapCached | awk {'print $2'}`
+# swap_usage=`cat /proc/swaps`
 swap_total=`cat /proc/meminfo | grep SwapTotal | awk {'print $2'}`
 pourcentfree=$((($memfree * 100)/$memtotal))
-# Récupère le nombre de processus en exécution
+
+# Number of processes
 processes=`ps ax | wc -l | tr -d " "`
-# List of current connected users in SSH or console
+
+# Current connected users in SSH or console
 current_users=`who`
+
 # Server uptime
 uptime=`uptime -p`
+
+# Disk usage (use 2s timeout for weak nfs mounts)
 disk_usage=`timeout --signal=kill 2s df -h | grep -E "^(/dev/|Filesystem)"`
 
-
-# Récupérer le loadavg
+# Load average
 read one five fifteen rest < /proc/loadavg
 
-# Affichage des variables
+
+# Displaying
+echo "$model - $os_version"
 echo ""
-echo -e "$GREEN Processors      : $OFF $cores cores"
-echo -e "$GREEN Processor load  : $OFF $one % (1min) - $five % (5min) - $fifteen % (15min)"
-echo -e "$GREEN Memory free     : $OFF $(($memfree/1024))MB / $(($memtotal/1024))MB ($pourcentfree % free)"
-echo -e "$GREEN Swap load       : $OFF $(($swap_usage/1024))MB / $(($swap_total/1024))MB"
-echo -e "$GREEN IP adress       : $OFF $ipaddr"
-echo -e "$GREEN Uptime          : $OFF $uptime"
+echo -e "${COLOR}Processors      :${OFF} $cores cores"
+echo -e "${COLOR}Processor load  :${OFF} $one (1min) - $five (5min) - $fifteen (15min)"
+echo -e "${COLOR}Memory free     :${OFF} $(($memfree/1024))MB / $(($memtotal/1024))MB ($pourcentfree% free)"
+echo -e "${COLOR}Memory load     :${OFF} $(($memfree/1024))MB / $(($memtotal/1024))MB ($pourcentfree% free)"
+echo -e "${COLOR}Swap load       :${OFF} $(($swap_usage/1024))MB / $(($swap_total/1024))MB"
+
+echo -e "${COLOR}Processes       :${OFF} $processes"
+echo -e "${COLOR}IP adress       :${OFF} $ipaddr"
+echo -e "${COLOR}Uptime          :${OFF} $uptime"
 echo ""
-# Get disk usage (use 2s timeout for weak nfs mounts)
-echo -e "$GREEN Disk usage      : Total   Used  Free  %   Mount$OFF"
+echo -e "${COLOR}Disk usage      :  Total   Used  Free   %  Mount${OFF}"
 echo -e "$disk_usage"
 echo ""
-echo -e "$GREEN Current users   : $OFF"
+echo -e "${COLOR}Current users   :${OFF}"
 echo -e "$current_users"
-echo ""
-
-
-
-echo ""

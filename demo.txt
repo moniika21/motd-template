@@ -1,0 +1,1008 @@
+Debian GNU/Linux 11 (bullseye)
+
+[0;30mProcessors      :[0m 4 cores
+[0;30mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[0;30mMemory free     :[0m 105MB / 733MB (14% free)
+[0;30mSwap load       :[0m 14MB / 999MB
+[0;30mProcesses       :[0m 162
+[0;30mIP adress       :[0m 192.168.1.16
+[0;30mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;30mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;30mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;31mProcessors      :[0m 4 cores
+[0;31mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[0;31mMemory free     :[0m 105MB / 733MB (14% free)
+[0;31mSwap load       :[0m 14MB / 999MB
+[0;31mProcesses       :[0m 162
+[0;31mIP adress       :[0m 192.168.1.16
+[0;31mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;31mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;31mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;32mProcessors      :[0m 4 cores
+[0;32mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[0;32mMemory free     :[0m 105MB / 733MB (14% free)
+[0;32mSwap load       :[0m 14MB / 999MB
+[0;32mProcesses       :[0m 162
+[0;32mIP adress       :[0m 192.168.1.16
+[0;32mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;32mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;32mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;33mProcessors      :[0m 4 cores
+[0;33mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[0;33mMemory free     :[0m 105MB / 733MB (14% free)
+[0;33mSwap load       :[0m 14MB / 999MB
+[0;33mProcesses       :[0m 162
+[0;33mIP adress       :[0m 192.168.1.16
+[0;33mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;33mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;33mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;34mProcessors      :[0m 4 cores
+[0;34mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[0;34mMemory free     :[0m 104MB / 733MB (14% free)
+[0;34mSwap load       :[0m 14MB / 999MB
+[0;34mProcesses       :[0m 162
+[0;34mIP adress       :[0m 192.168.1.16
+[0;34mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;34mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;34mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;35mProcessors      :[0m 4 cores
+[0;35mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[0;35mMemory free     :[0m 104MB / 733MB (14% free)
+[0;35mSwap load       :[0m 14MB / 999MB
+[0;35mProcesses       :[0m 162
+[0;35mIP adress       :[0m 192.168.1.16
+[0;35mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;35mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;35mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;36mProcessors      :[0m 4 cores
+[0;36mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[0;36mMemory free     :[0m 104MB / 733MB (14% free)
+[0;36mSwap load       :[0m 14MB / 999MB
+[0;36mProcesses       :[0m 162
+[0;36mIP adress       :[0m 192.168.1.16
+[0;36mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;36mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;36mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;37mProcessors      :[0m 4 cores
+[0;37mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[0;37mMemory free     :[0m 104MB / 733MB (14% free)
+[0;37mSwap load       :[0m 14MB / 999MB
+[0;37mProcesses       :[0m 162
+[0;37mIP adress       :[0m 192.168.1.16
+[0;37mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;37mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;37mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;30mProcessors      :[0m 4 cores
+[1;30mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[1;30mMemory free     :[0m 104MB / 733MB (14% free)
+[1;30mSwap load       :[0m 14MB / 999MB
+[1;30mProcesses       :[0m 162
+[1;30mIP adress       :[0m 192.168.1.16
+[1;30mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;30mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;30mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;31mProcessors      :[0m 4 cores
+[1;31mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[1;31mMemory free     :[0m 104MB / 733MB (14% free)
+[1;31mSwap load       :[0m 14MB / 999MB
+[1;31mProcesses       :[0m 162
+[1;31mIP adress       :[0m 192.168.1.16
+[1;31mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;31mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;31mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;32mProcessors      :[0m 4 cores
+[1;32mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[1;32mMemory free     :[0m 104MB / 733MB (14% free)
+[1;32mSwap load       :[0m 14MB / 999MB
+[1;32mProcesses       :[0m 162
+[1;32mIP adress       :[0m 192.168.1.16
+[1;32mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;32mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;32mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;33mProcessors      :[0m 4 cores
+[1;33mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[1;33mMemory free     :[0m 104MB / 733MB (14% free)
+[1;33mSwap load       :[0m 14MB / 999MB
+[1;33mProcesses       :[0m 162
+[1;33mIP adress       :[0m 192.168.1.16
+[1;33mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;33mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;33mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;34mProcessors      :[0m 4 cores
+[1;34mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[1;34mMemory free     :[0m 104MB / 733MB (14% free)
+[1;34mSwap load       :[0m 14MB / 999MB
+[1;34mProcesses       :[0m 162
+[1;34mIP adress       :[0m 192.168.1.16
+[1;34mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;34mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;34mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;35mProcessors      :[0m 4 cores
+[1;35mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[1;35mMemory free     :[0m 103MB / 733MB (14% free)
+[1;35mSwap load       :[0m 14MB / 999MB
+[1;35mProcesses       :[0m 162
+[1;35mIP adress       :[0m 192.168.1.16
+[1;35mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;35mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;35mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;36mProcessors      :[0m 4 cores
+[1;36mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[1;36mMemory free     :[0m 103MB / 733MB (14% free)
+[1;36mSwap load       :[0m 14MB / 999MB
+[1;36mProcesses       :[0m 162
+[1;36mIP adress       :[0m 192.168.1.16
+[1;36mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;36mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;36mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;37mProcessors      :[0m 4 cores
+[1;37mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[1;37mMemory free     :[0m 102MB / 733MB (14% free)
+[1;37mSwap load       :[0m 14MB / 999MB
+[1;37mProcesses       :[0m 162
+[1;37mIP adress       :[0m 192.168.1.16
+[1;37mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;37mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;37mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[4;30mProcessors      :[0m 4 cores
+[4;30mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[4;30mMemory free     :[0m 102MB / 733MB (13% free)
+[4;30mSwap load       :[0m 14MB / 999MB
+[4;30mProcesses       :[0m 162
+[4;30mIP adress       :[0m 192.168.1.16
+[4;30mUptime          :[0m up 2 weeks, 5 minutes
+
+[4;30mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[4;30mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[4;31mProcessors      :[0m 4 cores
+[4;31mProcessor load  :[0m 0.12 (1min) - 0.15 (5min) - 0.16 (15min)
+[4;31mMemory free     :[0m 102MB / 733MB (13% free)
+[4;31mSwap load       :[0m 14MB / 999MB
+[4;31mProcesses       :[0m 162
+[4;31mIP adress       :[0m 192.168.1.16
+[4;31mUptime          :[0m up 2 weeks, 5 minutes
+
+[4;31mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[4;31mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[4;32mProcessors      :[0m 4 cores
+[4;32mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[4;32mMemory free     :[0m 102MB / 733MB (13% free)
+[4;32mSwap load       :[0m 14MB / 999MB
+[4;32mProcesses       :[0m 162
+[4;32mIP adress       :[0m 192.168.1.16
+[4;32mUptime          :[0m up 2 weeks, 5 minutes
+
+[4;32mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[4;32mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[4;33mProcessors      :[0m 4 cores
+[4;33mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[4;33mMemory free     :[0m 101MB / 733MB (13% free)
+[4;33mSwap load       :[0m 14MB / 999MB
+[4;33mProcesses       :[0m 162
+[4;33mIP adress       :[0m 192.168.1.16
+[4;33mUptime          :[0m up 2 weeks, 5 minutes
+
+[4;33mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[4;33mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[4;34mProcessors      :[0m 4 cores
+[4;34mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[4;34mMemory free     :[0m 101MB / 733MB (13% free)
+[4;34mSwap load       :[0m 14MB / 999MB
+[4;34mProcesses       :[0m 162
+[4;34mIP adress       :[0m 192.168.1.16
+[4;34mUptime          :[0m up 2 weeks, 5 minutes
+
+[4;34mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[4;34mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[4;35mProcessors      :[0m 4 cores
+[4;35mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[4;35mMemory free     :[0m 101MB / 733MB (13% free)
+[4;35mSwap load       :[0m 14MB / 999MB
+[4;35mProcesses       :[0m 162
+[4;35mIP adress       :[0m 192.168.1.16
+[4;35mUptime          :[0m up 2 weeks, 5 minutes
+
+[4;35mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[4;35mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[4;36mProcessors      :[0m 4 cores
+[4;36mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[4;36mMemory free     :[0m 101MB / 733MB (13% free)
+[4;36mSwap load       :[0m 14MB / 999MB
+[4;36mProcesses       :[0m 162
+[4;36mIP adress       :[0m 192.168.1.16
+[4;36mUptime          :[0m up 2 weeks, 5 minutes
+
+[4;36mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[4;36mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[4;37mProcessors      :[0m 4 cores
+[4;37mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[4;37mMemory free     :[0m 101MB / 733MB (13% free)
+[4;37mSwap load       :[0m 14MB / 999MB
+[4;37mProcesses       :[0m 162
+[4;37mIP adress       :[0m 192.168.1.16
+[4;37mUptime          :[0m up 2 weeks, 5 minutes
+
+[4;37mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[4;37mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[40mProcessors      :[0m 4 cores
+[40mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[40mMemory free     :[0m 101MB / 733MB (13% free)
+[40mSwap load       :[0m 14MB / 999MB
+[40mProcesses       :[0m 162
+[40mIP adress       :[0m 192.168.1.16
+[40mUptime          :[0m up 2 weeks, 5 minutes
+
+[40mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[40mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[41mProcessors      :[0m 4 cores
+[41mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[41mMemory free     :[0m 101MB / 733MB (13% free)
+[41mSwap load       :[0m 14MB / 999MB
+[41mProcesses       :[0m 162
+[41mIP adress       :[0m 192.168.1.16
+[41mUptime          :[0m up 2 weeks, 5 minutes
+
+[41mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[41mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[42mProcessors      :[0m 4 cores
+[42mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[42mMemory free     :[0m 101MB / 733MB (13% free)
+[42mSwap load       :[0m 14MB / 999MB
+[42mProcesses       :[0m 162
+[42mIP adress       :[0m 192.168.1.16
+[42mUptime          :[0m up 2 weeks, 5 minutes
+
+[42mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[42mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[43mProcessors      :[0m 4 cores
+[43mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[43mMemory free     :[0m 102MB / 733MB (13% free)
+[43mSwap load       :[0m 14MB / 999MB
+[43mProcesses       :[0m 162
+[43mIP adress       :[0m 192.168.1.16
+[43mUptime          :[0m up 2 weeks, 5 minutes
+
+[43mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[43mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[44mProcessors      :[0m 4 cores
+[44mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[44mMemory free     :[0m 102MB / 733MB (13% free)
+[44mSwap load       :[0m 14MB / 999MB
+[44mProcesses       :[0m 162
+[44mIP adress       :[0m 192.168.1.16
+[44mUptime          :[0m up 2 weeks, 5 minutes
+
+[44mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[44mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[45mProcessors      :[0m 4 cores
+[45mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[45mMemory free     :[0m 102MB / 733MB (13% free)
+[45mSwap load       :[0m 14MB / 999MB
+[45mProcesses       :[0m 162
+[45mIP adress       :[0m 192.168.1.16
+[45mUptime          :[0m up 2 weeks, 5 minutes
+
+[45mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[45mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[46mProcessors      :[0m 4 cores
+[46mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[46mMemory free     :[0m 102MB / 733MB (13% free)
+[46mSwap load       :[0m 14MB / 999MB
+[46mProcesses       :[0m 162
+[46mIP adress       :[0m 192.168.1.16
+[46mUptime          :[0m up 2 weeks, 5 minutes
+
+[46mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[46mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[47mProcessors      :[0m 4 cores
+[47mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[47mMemory free     :[0m 102MB / 733MB (13% free)
+[47mSwap load       :[0m 14MB / 999MB
+[47mProcesses       :[0m 162
+[47mIP adress       :[0m 192.168.1.16
+[47mUptime          :[0m up 2 weeks, 5 minutes
+
+[47mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[47mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;90mProcessors      :[0m 4 cores
+[0;90mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[0;90mMemory free     :[0m 102MB / 733MB (13% free)
+[0;90mSwap load       :[0m 14MB / 999MB
+[0;90mProcesses       :[0m 162
+[0;90mIP adress       :[0m 192.168.1.16
+[0;90mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;90mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;90mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;91mProcessors      :[0m 4 cores
+[0;91mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[0;91mMemory free     :[0m 102MB / 733MB (13% free)
+[0;91mSwap load       :[0m 14MB / 999MB
+[0;91mProcesses       :[0m 162
+[0;91mIP adress       :[0m 192.168.1.16
+[0;91mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;91mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;91mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;92mProcessors      :[0m 4 cores
+[0;92mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[0;92mMemory free     :[0m 103MB / 733MB (14% free)
+[0;92mSwap load       :[0m 14MB / 999MB
+[0;92mProcesses       :[0m 162
+[0;92mIP adress       :[0m 192.168.1.16
+[0;92mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;92mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;92mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;93mProcessors      :[0m 4 cores
+[0;93mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[0;93mMemory free     :[0m 103MB / 733MB (14% free)
+[0;93mSwap load       :[0m 14MB / 999MB
+[0;93mProcesses       :[0m 162
+[0;93mIP adress       :[0m 192.168.1.16
+[0;93mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;93mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;93mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;94mProcessors      :[0m 4 cores
+[0;94mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[0;94mMemory free     :[0m 102MB / 733MB (14% free)
+[0;94mSwap load       :[0m 14MB / 999MB
+[0;94mProcesses       :[0m 162
+[0;94mIP adress       :[0m 192.168.1.16
+[0;94mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;94mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;94mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;95mProcessors      :[0m 4 cores
+[0;95mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[0;95mMemory free     :[0m 102MB / 733MB (13% free)
+[0;95mSwap load       :[0m 14MB / 999MB
+[0;95mProcesses       :[0m 162
+[0;95mIP adress       :[0m 192.168.1.16
+[0;95mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;95mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;95mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;96mProcessors      :[0m 4 cores
+[0;96mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[0;96mMemory free     :[0m 102MB / 733MB (13% free)
+[0;96mSwap load       :[0m 14MB / 999MB
+[0;96mProcesses       :[0m 162
+[0;96mIP adress       :[0m 192.168.1.16
+[0;96mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;96mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;96mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;97mProcessors      :[0m 4 cores
+[0;97mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[0;97mMemory free     :[0m 103MB / 733MB (14% free)
+[0;97mSwap load       :[0m 14MB / 999MB
+[0;97mProcesses       :[0m 162
+[0;97mIP adress       :[0m 192.168.1.16
+[0;97mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;97mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;97mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;90mProcessors      :[0m 4 cores
+[1;90mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[1;90mMemory free     :[0m 103MB / 733MB (14% free)
+[1;90mSwap load       :[0m 14MB / 999MB
+[1;90mProcesses       :[0m 162
+[1;90mIP adress       :[0m 192.168.1.16
+[1;90mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;90mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;90mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;91mProcessors      :[0m 4 cores
+[1;91mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[1;91mMemory free     :[0m 103MB / 733MB (14% free)
+[1;91mSwap load       :[0m 14MB / 999MB
+[1;91mProcesses       :[0m 162
+[1;91mIP adress       :[0m 192.168.1.16
+[1;91mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;91mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;91mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;92mProcessors      :[0m 4 cores
+[1;92mProcessor load  :[0m 0.35 (1min) - 0.20 (5min) - 0.18 (15min)
+[1;92mMemory free     :[0m 103MB / 733MB (14% free)
+[1;92mSwap load       :[0m 14MB / 999MB
+[1;92mProcesses       :[0m 162
+[1;92mIP adress       :[0m 192.168.1.16
+[1;92mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;92mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;92mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;93mProcessors      :[0m 4 cores
+[1;93mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[1;93mMemory free     :[0m 103MB / 733MB (14% free)
+[1;93mSwap load       :[0m 14MB / 999MB
+[1;93mProcesses       :[0m 162
+[1;93mIP adress       :[0m 192.168.1.16
+[1;93mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;93mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;93mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;94mProcessors      :[0m 4 cores
+[1;94mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[1;94mMemory free     :[0m 103MB / 733MB (14% free)
+[1;94mSwap load       :[0m 14MB / 999MB
+[1;94mProcesses       :[0m 162
+[1;94mIP adress       :[0m 192.168.1.16
+[1;94mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;94mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;94mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;95mProcessors      :[0m 4 cores
+[1;95mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[1;95mMemory free     :[0m 103MB / 733MB (14% free)
+[1;95mSwap load       :[0m 14MB / 999MB
+[1;95mProcesses       :[0m 162
+[1;95mIP adress       :[0m 192.168.1.16
+[1;95mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;95mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;95mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;96mProcessors      :[0m 4 cores
+[1;96mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[1;96mMemory free     :[0m 103MB / 733MB (14% free)
+[1;96mSwap load       :[0m 14MB / 999MB
+[1;96mProcesses       :[0m 162
+[1;96mIP adress       :[0m 192.168.1.16
+[1;96mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;96mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;96mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[1;97mProcessors      :[0m 4 cores
+[1;97mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[1;97mMemory free     :[0m 103MB / 733MB (14% free)
+[1;97mSwap load       :[0m 14MB / 999MB
+[1;97mProcesses       :[0m 162
+[1;97mIP adress       :[0m 192.168.1.16
+[1;97mUptime          :[0m up 2 weeks, 5 minutes
+
+[1;97mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[1;97mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;100mProcessors      :[0m 4 cores
+[0;100mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[0;100mMemory free     :[0m 103MB / 733MB (14% free)
+[0;100mSwap load       :[0m 14MB / 999MB
+[0;100mProcesses       :[0m 162
+[0;100mIP adress       :[0m 192.168.1.16
+[0;100mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;100mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;100mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;101mProcessors      :[0m 4 cores
+[0;101mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[0;101mMemory free     :[0m 104MB / 733MB (14% free)
+[0;101mSwap load       :[0m 14MB / 999MB
+[0;101mProcesses       :[0m 162
+[0;101mIP adress       :[0m 192.168.1.16
+[0;101mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;101mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;101mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;102mProcessors      :[0m 4 cores
+[0;102mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[0;102mMemory free     :[0m 104MB / 733MB (14% free)
+[0;102mSwap load       :[0m 14MB / 999MB
+[0;102mProcesses       :[0m 162
+[0;102mIP adress       :[0m 192.168.1.16
+[0;102mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;102mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;102mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;103mProcessors      :[0m 4 cores
+[0;103mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[0;103mMemory free     :[0m 104MB / 733MB (14% free)
+[0;103mSwap load       :[0m 14MB / 999MB
+[0;103mProcesses       :[0m 162
+[0;103mIP adress       :[0m 192.168.1.16
+[0;103mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;103mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;103mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;104mProcessors      :[0m 4 cores
+[0;104mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[0;104mMemory free     :[0m 104MB / 733MB (14% free)
+[0;104mSwap load       :[0m 14MB / 999MB
+[0;104mProcesses       :[0m 162
+[0;104mIP adress       :[0m 192.168.1.16
+[0;104mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;104mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;104mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[10;95mProcessors      :[0m 4 cores
+[10;95mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[10;95mMemory free     :[0m 104MB / 733MB (14% free)
+[10;95mSwap load       :[0m 14MB / 999MB
+[10;95mProcesses       :[0m 162
+[10;95mIP adress       :[0m 192.168.1.16
+[10;95mUptime          :[0m up 2 weeks, 5 minutes
+
+[10;95mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[10;95mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;106mProcessors      :[0m 4 cores
+[0;106mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[0;106mMemory free     :[0m 104MB / 733MB (14% free)
+[0;106mSwap load       :[0m 14MB / 999MB
+[0;106mProcesses       :[0m 161
+[0;106mIP adress       :[0m 192.168.1.16
+[0;106mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;106mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;106mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+
+Debian GNU/Linux 11 (bullseye)
+
+[0;107mProcessors      :[0m 4 cores
+[0;107mProcessor load  :[0m 0.56 (1min) - 0.25 (5min) - 0.19 (15min)
+[0;107mMemory free     :[0m 103MB / 733MB (14% free)
+[0;107mSwap load       :[0m 14MB / 999MB
+[0;107mProcesses       :[0m 161
+[0;107mIP adress       :[0m 192.168.1.16
+[0;107mUptime          :[0m up 2 weeks, 5 minutes
+
+[0;107mDisk usage      :  Total   Used  Free   %  Mount[0m
+/dev/root           14G    6,4G  6,7G  49% /
+/dev/mmcblk0p6     253M     31M  222M  13% /boot
+
+[0;107mCurrent users   :[0m
+pi       tty1         2022-10-18 02:41
+pi       pts/1        2022-10-31 23:58 (192.168.1.254)
+

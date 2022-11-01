@@ -11,7 +11,5 @@ logo="\e[0;32m
        '~ .~~~. ~'
            '~'
 \e[0m"
-model=`cat /proc/cpuinfo | grep -i "^Model" | awk -F": " '{print $2}'`
 
 echo -e $logo
-echo $model
