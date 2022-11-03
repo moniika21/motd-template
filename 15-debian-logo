@@ -1,11 +1,13 @@
 #!/bin/bash
+# figlet -f small debian
+# https://codegolf.stackexchange.com/questions/241412/shrink-ascii-art
 echo -e "\e[0;31m
-  ,gv_mt\$\$g.
- ,g\$\"   \"\"Y\$\"
-'\$P  ,,g.. \`\$:
-\$\$   d' -,,\$\$
-\$\$. \`Yb_\$_dP
-\`\$bb \"-_
+   gv_mt\$\$g.
+ ,g\$\"   \"\"Y\$\",\e[0m        _     _    _           \e[0;31m
+'\$P  ,,g.. \`\$:   \e[0m  __| |___| |__(_)__ _ _ _     \e[0;31m
+\$\$   d' -,,\$\$   \e[0m  / _' / -_) '_ \ / _' | ' \   \e[0;31m
+\$\$. \`Yb_\$_dP    \e[0m  \__,_\___|_.__/_\__,_|_||_|  \e[0;31m
+\`\$bb \"-_          
  \`Y\$\b
    \`Y\$..
       \`\"\"
