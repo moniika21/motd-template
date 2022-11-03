@@ -39,8 +39,15 @@ swap_usage=`cat /proc/meminfo | grep SwapCached | awk {'print $2'}`
 swap_total=`cat /proc/meminfo | grep SwapTotal | awk {'print $2'}`
 pourcentfree=$((($memfree * 100)/$memtotal))
 
+# Temperature
+if [ -x "$(command -v vcgencmd)" ]; then # Under raspberrypi
+	temp="`vcgencmd measure_temp | cut -c "6-9"`°C"
+else
+	temp=`paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/'`
+fi
+
 # Number of processes
-processes=`ps ax | wc -l | tr -d " "`
+processes=`ls -d /proc/[0-9]* | wc -l`
 
 # Current connected users in SSH or console
 current_users=`who`
@@ -49,7 +56,7 @@ current_users=`who`
 uptime=`uptime -p`
 
 # Disk usage (use 2s timeout for weak nfs mounts)
-disk_usage=`timeout --signal=kill 2s df -h | grep -E "^(/dev/|Filesystem)"`
+disk_usage=`timeout --signal=kill 2s df -h ~ | grep -E "^(/dev/|Filesystem)"`
 
 # Load average
 read one five fifteen rest < /proc/loadavg
@@ -58,18 +65,18 @@ read one five fifteen rest < /proc/loadavg
 # Displaying
 echo "$model - $os_version"
 echo ""
-echo -e "${COLOR}Processors      :${OFF} $cores cores"
-echo -e "${COLOR}Processor load  :${OFF} $one (1min) - $five (5min) - $fifteen (15min)"
-echo -e "${COLOR}Memory free     :${OFF} $(($memfree/1024))MB / $(($memtotal/1024))MB ($pourcentfree% free)"
-echo -e "${COLOR}Memory load     :${OFF} $(($memfree/1024))MB / $(($memtotal/1024))MB ($pourcentfree% free)"
-echo -e "${COLOR}Swap load       :${OFF} $(($swap_usage/1024))MB / $(($swap_total/1024))MB"
+echo -e "${COLOR}Processors      »${OFF} $cores cores"
+echo -e "${COLOR}Processor load  »${OFF} $one (1min) - $five (5min) - $fifteen (15min)"
+echo -e "${COLOR}Memory free     »${OFF} $(($memfree/1024))MB / $(($memtotal/1024))MB ($pourcentfree% free)"
+echo -e "${COLOR}Swap load       »${OFF} $(($swap_usage/1024))MB / $(($swap_total/1024))MB"
 
-echo -e "${COLOR}Processes       :${OFF} $processes"
-echo -e "${COLOR}IP adress       :${OFF} $ipaddr"
-echo -e "${COLOR}Uptime          :${OFF} $uptime"
+echo -e "${COLOR}Temperature     »${OFF} $temp"
+echo -e "${COLOR}Processes       »${OFF} $processes"
+echo -e "${COLOR}IP adress       »${OFF} $ipaddr"
+echo -e "${COLOR}Uptime          »${OFF} $uptime"
 echo ""
-echo -e "${COLOR}Disk usage      :  Total   Used  Free   %  Mount${OFF}"
+echo -e "${COLOR}Disk usage      »  Total   Used  Free   %  Mount${OFF}"
 echo -e "$disk_usage"
 echo ""
-echo -e "${COLOR}Current users   :${OFF}"
+echo -e "${COLOR}Current users   »${OFF}"
 echo -e "$current_users"
