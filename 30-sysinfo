@@ -63,8 +63,6 @@ uptime=`uptime -p`
 disk_usage=`timeout --signal=kill 2s df -h ~ | grep -E "^(/dev/|Filesystem)"`
 
 
-
-
 # Displaying
 echo "$model - $os_version"
 echo ""
