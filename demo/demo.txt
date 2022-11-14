@@ -1,0 +1,1120 @@
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;0;0;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;0;0;0mIP adress        »[0m 192.168.100.232
+[38;2;0;0;0mUptime           »[0m up 8 hours, 11 minutes
+[38;2;0;0;0mLast update      »[0m 2022-11-14 10:03:43
+[38;2;0;0;0mUpgrades         »[0m 2 available
+[38;2;0;0;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;0;0;0mProcessors       »[0m 8 cores
+[38;2;0;0;0mProcessor load   »[0m 2.95 (1min) - 2.79 (5min) - 3.16 (15min)
+[38;2;0;0;0mMemory available »[0m 10745 MB / 15695 MB (68% free)
+[38;2;0;0;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;0;0;0mAll processes    »[0m 352
+[38;2;0;0;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             31.0°C
+pch_cannonlake   35.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     40.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;255;0;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;255;0;0mIP adress        »[0m 192.168.100.232
+[38;2;255;0;0mUptime           »[0m up 8 hours, 11 minutes
+[38;2;255;0;0mLast update      »[0m 2022-11-14 10:03:43
+[38;2;255;0;0mUpgrades         »[0m 2 available
+[38;2;255;0;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;255;0;0mProcessors       »[0m 8 cores
+[38;2;255;0;0mProcessor load   »[0m 2.95 (1min) - 2.79 (5min) - 3.16 (15min)
+[38;2;255;0;0mMemory available »[0m 10741 MB / 15695 MB (68% free)
+[38;2;255;0;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;255;0;0mAll processes    »[0m 352
+[38;2;255;0;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             31.0°C
+pch_cannonlake   35.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     40.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;0;255;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;0;255;0mIP adress        »[0m 192.168.100.232
+[38;2;0;255;0mUptime           »[0m up 8 hours, 11 minutes
+[38;2;0;255;0mLast update      »[0m 2022-11-14 10:03:43
+[38;2;0;255;0mUpgrades         »[0m 2 available
+[38;2;0;255;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;0;255;0mProcessors       »[0m 8 cores
+[38;2;0;255;0mProcessor load   »[0m 2.95 (1min) - 2.79 (5min) - 3.16 (15min)
+[38;2;0;255;0mMemory available »[0m 10739 MB / 15695 MB (68% free)
+[38;2;0;255;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;0;255;0mAll processes    »[0m 352
+[38;2;0;255;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   35.0°C
+NGFF             29.0°C
+B0D4             42.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     40.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;255;255;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;255;255;0mIP adress        »[0m 192.168.100.232
+[38;2;255;255;0mUptime           »[0m up 8 hours, 11 minutes
+[38;2;255;255;0mLast update      »[0m 2022-11-14 10:03:43
+[38;2;255;255;0mUpgrades         »[0m 2 available
+[38;2;255;255;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;255;255;0mProcessors       »[0m 8 cores
+[38;2;255;255;0mProcessor load   »[0m 2.95 (1min) - 2.79 (5min) - 3.16 (15min)
+[38;2;255;255;0mMemory available »[0m 10743 MB / 15695 MB (68% free)
+[38;2;255;255;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;255;255;0mAll processes    »[0m 352
+[38;2;255;255;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   35.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     41.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;96;64;32mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;96;64;32mIP adress        »[0m 192.168.100.232
+[38;2;96;64;32mUptime           »[0m up 8 hours, 11 minutes
+[38;2;96;64;32mLast update      »[0m 2022-11-14 10:03:43
+[38;2;96;64;32mUpgrades         »[0m 2 available
+[38;2;96;64;32mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;96;64;32mProcessors       »[0m 8 cores
+[38;2;96;64;32mProcessor load   »[0m 2.95 (1min) - 2.79 (5min) - 3.16 (15min)
+[38;2;96;64;32mMemory available »[0m 10747 MB / 15695 MB (68% free)
+[38;2;96;64;32mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;96;64;32mAll processes    »[0m 352
+[38;2;96;64;32mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   35.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     41.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;0;0;255mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;0;0;255mIP adress        »[0m 192.168.100.232
+[38;2;0;0;255mUptime           »[0m up 8 hours, 11 minutes
+[38;2;0;0;255mLast update      »[0m 2022-11-14 10:03:43
+[38;2;0;0;255mUpgrades         »[0m 2 available
+[38;2;0;0;255mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;0;0;255mProcessors       »[0m 8 cores
+[38;2;0;0;255mProcessor load   »[0m 2.87 (1min) - 2.78 (5min) - 3.15 (15min)
+[38;2;0;0;255mMemory available »[0m 10762 MB / 15695 MB (68% free)
+[38;2;0;0;255mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;0;0;255mAll processes    »[0m 352
+[38;2;0;0;255mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   36.0°C
+NGFF             29.0°C
+B0D4             47.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     42.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;255;0;255mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;255;0;255mIP adress        »[0m 192.168.100.232
+[38;2;255;0;255mUptime           »[0m up 8 hours, 11 minutes
+[38;2;255;0;255mLast update      »[0m 2022-11-14 10:03:43
+[38;2;255;0;255mUpgrades         »[0m 2 available
+[38;2;255;0;255mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;255;0;255mProcessors       »[0m 8 cores
+[38;2;255;0;255mProcessor load   »[0m 2.87 (1min) - 2.78 (5min) - 3.15 (15min)
+[38;2;255;0;255mMemory available »[0m 10760 MB / 15695 MB (68% free)
+[38;2;255;0;255mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;255;0;255mAll processes    »[0m 352
+[38;2;255;0;255mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   36.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        31.0°C
+x86_pkg_temp     42.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;255;96;192mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;255;96;192mIP adress        »[0m 192.168.100.232
+[38;2;255;96;192mUptime           »[0m up 8 hours, 11 minutes
+[38;2;255;96;192mLast update      »[0m 2022-11-14 10:03:43
+[38;2;255;96;192mUpgrades         »[0m 2 available
+[38;2;255;96;192mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;255;96;192mProcessors       »[0m 8 cores
+[38;2;255;96;192mProcessor load   »[0m 2.87 (1min) - 2.78 (5min) - 3.15 (15min)
+[38;2;255;96;192mMemory available »[0m 10757 MB / 15695 MB (68% free)
+[38;2;255;96;192mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;255;96;192mAll processes    »[0m 352
+[38;2;255;96;192mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   37.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     41.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;0;255;255mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;0;255;255mIP adress        »[0m 192.168.100.232
+[38;2;0;255;255mUptime           »[0m up 8 hours, 11 minutes
+[38;2;0;255;255mLast update      »[0m 2022-11-14 10:03:43
+[38;2;0;255;255mUpgrades         »[0m 2 available
+[38;2;0;255;255mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;0;255;255mProcessors       »[0m 8 cores
+[38;2;0;255;255mProcessor load   »[0m 2.87 (1min) - 2.78 (5min) - 3.15 (15min)
+[38;2;0;255;255mMemory available »[0m 10759 MB / 15695 MB (68% free)
+[38;2;0;255;255mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;0;255;255mAll processes    »[0m 353
+[38;2;0;255;255mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   36.0°C
+NGFF             29.0°C
+B0D4             45.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     42.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;255;96;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;255;96;0mIP adress        »[0m 192.168.100.232
+[38;2;255;96;0mUptime           »[0m up 8 hours, 11 minutes
+[38;2;255;96;0mLast update      »[0m 2022-11-14 10:03:43
+[38;2;255;96;0mUpgrades         »[0m 2 available
+[38;2;255;96;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;255;96;0mProcessors       »[0m 8 cores
+[38;2;255;96;0mProcessor load   »[0m 2.87 (1min) - 2.78 (5min) - 3.15 (15min)
+[38;2;255;96;0mMemory available »[0m 10767 MB / 15695 MB (68% free)
+[38;2;255;96;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;255;96;0mAll processes    »[0m 353
+[38;2;255;96;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   36.0°C
+NGFF             29.0°C
+B0D4             44.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;128;128;128mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;128;128;128mIP adress        »[0m 192.168.100.232
+[38;2;128;128;128mUptime           »[0m up 8 hours, 11 minutes
+[38;2;128;128;128mLast update      »[0m 2022-11-14 10:03:43
+[38;2;128;128;128mUpgrades         »[0m 2 available
+[38;2;128;128;128mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;128;128;128mProcessors       »[0m 8 cores
+[38;2;128;128;128mProcessor load   »[0m 2.87 (1min) - 2.78 (5min) - 3.15 (15min)
+[38;2;128;128;128mMemory available »[0m 10766 MB / 15695 MB (68% free)
+[38;2;128;128;128mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;128;128;128mAll processes    »[0m 353
+[38;2;128;128;128mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   37.0°C
+NGFF             29.0°C
+B0D4             44.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[38;2;255;255;255mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[38;2;255;255;255mIP adress        »[0m 192.168.100.232
+[38;2;255;255;255mUptime           »[0m up 8 hours, 11 minutes
+[38;2;255;255;255mLast update      »[0m 2022-11-14 10:03:43
+[38;2;255;255;255mUpgrades         »[0m 2 available
+[38;2;255;255;255mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[38;2;255;255;255mProcessors       »[0m 8 cores
+[38;2;255;255;255mProcessor load   »[0m 2.87 (1min) - 2.78 (5min) - 3.15 (15min)
+[38;2;255;255;255mMemory available »[0m 10765 MB / 15695 MB (68% free)
+[38;2;255;255;255mSwap available   »[0m 976 MB / 976 MB (100% free)
+[38;2;255;255;255mAll processes    »[0m 353
+[38;2;255;255;255mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             32.0°C
+pch_cannonlake   37.0°C
+NGFF             29.0°C
+B0D4             48.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     41.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;0;0;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;0;0;0mIP adress        »[0m 192.168.100.232
+[48;2;0;0;0mUptime           »[0m up 8 hours, 11 minutes
+[48;2;0;0;0mLast update      »[0m 2022-11-14 10:03:43
+[48;2;0;0;0mUpgrades         »[0m 2 available
+[48;2;0;0;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;0;0;0mProcessors       »[0m 8 cores
+[48;2;0;0;0mProcessor load   »[0m 2.87 (1min) - 2.78 (5min) - 3.15 (15min)
+[48;2;0;0;0mMemory available »[0m 10763 MB / 15695 MB (68% free)
+[48;2;0;0;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;0;0;0mAll processes    »[0m 353
+[48;2;0;0;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   36.0°C
+NGFF             29.0°C
+B0D4             45.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     41.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;255;0;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;255;0;0mIP adress        »[0m 192.168.100.232
+[48;2;255;0;0mUptime           »[0m up 8 hours, 11 minutes
+[48;2;255;0;0mLast update      »[0m 2022-11-14 10:03:43
+[48;2;255;0;0mUpgrades         »[0m 2 available
+[48;2;255;0;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;255;0;0mProcessors       »[0m 8 cores
+[48;2;255;0;0mProcessor load   »[0m 2.97 (1min) - 2.80 (5min) - 3.16 (15min)
+[48;2;255;0;0mMemory available »[0m 10766 MB / 15695 MB (68% free)
+[48;2;255;0;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;255;0;0mAll processes    »[0m 353
+[48;2;255;0;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   37.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;0;255;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;0;255;0mIP adress        »[0m 192.168.100.232
+[48;2;0;255;0mUptime           »[0m up 8 hours, 11 minutes
+[48;2;0;255;0mLast update      »[0m 2022-11-14 10:03:43
+[48;2;0;255;0mUpgrades         »[0m 2 available
+[48;2;0;255;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;0;255;0mProcessors       »[0m 8 cores
+[48;2;0;255;0mProcessor load   »[0m 2.97 (1min) - 2.80 (5min) - 3.16 (15min)
+[48;2;0;255;0mMemory available »[0m 10762 MB / 15695 MB (68% free)
+[48;2;0;255;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;0;255;0mAll processes    »[0m 353
+[48;2;0;255;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   37.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     42.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;255;255;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;255;255;0mIP adress        »[0m 192.168.100.232
+[48;2;255;255;0mUptime           »[0m up 8 hours, 11 minutes
+[48;2;255;255;0mLast update      »[0m 2022-11-14 10:03:43
+[48;2;255;255;0mUpgrades         »[0m 2 available
+[48;2;255;255;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;255;255;0mProcessors       »[0m 8 cores
+[48;2;255;255;0mProcessor load   »[0m 2.97 (1min) - 2.80 (5min) - 3.16 (15min)
+[48;2;255;255;0mMemory available »[0m 10762 MB / 15695 MB (68% free)
+[48;2;255;255;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;255;255;0mAll processes    »[0m 353
+[48;2;255;255;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   38.0°C
+NGFF             29.0°C
+B0D4             45.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;96;64;32mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;96;64;32mIP adress        »[0m 192.168.100.232
+[48;2;96;64;32mUptime           »[0m up 8 hours, 11 minutes
+[48;2;96;64;32mLast update      »[0m 2022-11-14 10:03:43
+[48;2;96;64;32mUpgrades         »[0m 2 available
+[48;2;96;64;32mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;96;64;32mProcessors       »[0m 8 cores
+[48;2;96;64;32mProcessor load   »[0m 2.97 (1min) - 2.80 (5min) - 3.16 (15min)
+[48;2;96;64;32mMemory available »[0m 10767 MB / 15695 MB (68% free)
+[48;2;96;64;32mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;96;64;32mAll processes    »[0m 354
+[48;2;96;64;32mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   37.0°C
+NGFF             29.0°C
+B0D4             51.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     45.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;0;0;255mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;0;0;255mIP adress        »[0m 192.168.100.232
+[48;2;0;0;255mUptime           »[0m up 8 hours, 11 minutes
+[48;2;0;0;255mLast update      »[0m 2022-11-14 10:03:43
+[48;2;0;0;255mUpgrades         »[0m 2 available
+[48;2;0;0;255mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;0;0;255mProcessors       »[0m 8 cores
+[48;2;0;0;255mProcessor load   »[0m 2.97 (1min) - 2.80 (5min) - 3.16 (15min)
+[48;2;0;0;255mMemory available »[0m 10769 MB / 15695 MB (68% free)
+[48;2;0;0;255mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;0;0;255mAll processes    »[0m 353
+[48;2;0;0;255mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   38.0°C
+NGFF             29.0°C
+B0D4             51.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     42.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;255;0;255mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;255;0;255mIP adress        »[0m 192.168.100.232
+[48;2;255;0;255mUptime           »[0m up 8 hours, 11 minutes
+[48;2;255;0;255mLast update      »[0m 2022-11-14 10:03:43
+[48;2;255;0;255mUpgrades         »[0m 2 available
+[48;2;255;0;255mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;255;0;255mProcessors       »[0m 8 cores
+[48;2;255;0;255mProcessor load   »[0m 2.97 (1min) - 2.80 (5min) - 3.16 (15min)
+[48;2;255;0;255mMemory available »[0m 10770 MB / 15695 MB (68% free)
+[48;2;255;0;255mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;255;0;255mAll processes    »[0m 353
+[48;2;255;0;255mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   37.0°C
+NGFF             29.0°C
+B0D4             47.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     46.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;255;96;192mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;255;96;192mIP adress        »[0m 192.168.100.232
+[48;2;255;96;192mUptime           »[0m up 8 hours, 11 minutes
+[48;2;255;96;192mLast update      »[0m 2022-11-14 10:03:43
+[48;2;255;96;192mUpgrades         »[0m 2 available
+[48;2;255;96;192mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;255;96;192mProcessors       »[0m 8 cores
+[48;2;255;96;192mProcessor load   »[0m 2.97 (1min) - 2.80 (5min) - 3.16 (15min)
+[48;2;255;96;192mMemory available »[0m 10771 MB / 15695 MB (68% free)
+[48;2;255;96;192mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;255;96;192mAll processes    »[0m 353
+[48;2;255;96;192mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   36.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     45.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;0;255;255mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;0;255;255mIP adress        »[0m 192.168.100.232
+[48;2;0;255;255mUptime           »[0m up 8 hours, 11 minutes
+[48;2;0;255;255mLast update      »[0m 2022-11-14 10:03:43
+[48;2;0;255;255mUpgrades         »[0m 2 available
+[48;2;0;255;255mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;0;255;255mProcessors       »[0m 8 cores
+[48;2;0;255;255mProcessor load   »[0m 3.21 (1min) - 2.85 (5min) - 3.17 (15min)
+[48;2;0;255;255mMemory available »[0m 10768 MB / 15695 MB (68% free)
+[48;2;0;255;255mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;0;255;255mAll processes    »[0m 353
+[48;2;0;255;255mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   38.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     46.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;255;96;0mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;255;96;0mIP adress        »[0m 192.168.100.232
+[48;2;255;96;0mUptime           »[0m up 8 hours, 11 minutes
+[48;2;255;96;0mLast update      »[0m 2022-11-14 10:03:43
+[48;2;255;96;0mUpgrades         »[0m 2 available
+[48;2;255;96;0mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;255;96;0mProcessors       »[0m 8 cores
+[48;2;255;96;0mProcessor load   »[0m 3.21 (1min) - 2.85 (5min) - 3.17 (15min)
+[48;2;255;96;0mMemory available »[0m 10767 MB / 15695 MB (68% free)
+[48;2;255;96;0mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;255;96;0mAll processes    »[0m 353
+[48;2;255;96;0mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   39.0°C
+NGFF             29.0°C
+B0D4             50.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;128;128;128mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;128;128;128mIP adress        »[0m 192.168.100.232
+[48;2;128;128;128mUptime           »[0m up 8 hours, 11 minutes
+[48;2;128;128;128mLast update      »[0m 2022-11-14 10:03:43
+[48;2;128;128;128mUpgrades         »[0m 2 available
+[48;2;128;128;128mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;128;128;128mProcessors       »[0m 8 cores
+[48;2;128;128;128mProcessor load   »[0m 3.21 (1min) - 2.85 (5min) - 3.17 (15min)
+[48;2;128;128;128mMemory available »[0m 10767 MB / 15695 MB (68% free)
+[48;2;128;128;128mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;128;128;128mAll processes    »[0m 353
+[48;2;128;128;128mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   38.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[48;2;255;255;255mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[48;2;255;255;255mIP adress        »[0m 192.168.100.232
+[48;2;255;255;255mUptime           »[0m up 8 hours, 11 minutes
+[48;2;255;255;255mLast update      »[0m 2022-11-14 10:03:43
+[48;2;255;255;255mUpgrades         »[0m 2 available
+[48;2;255;255;255mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[48;2;255;255;255mProcessors       »[0m 8 cores
+[48;2;255;255;255mProcessor load   »[0m 3.21 (1min) - 2.85 (5min) - 3.17 (15min)
+[48;2;255;255;255mMemory available »[0m 10767 MB / 15695 MB (68% free)
+[48;2;255;255;255mSwap available   »[0m 976 MB / 976 MB (100% free)
+[48;2;255;255;255mAll processes    »[0m 353
+[48;2;255;255;255mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             33.0°C
+pch_cannonlake   37.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     45.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[0;30mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[0;30mIP adress        »[0m 192.168.100.232
+[0;30mUptime           »[0m up 8 hours, 11 minutes
+[0;30mLast update      »[0m 2022-11-14 10:03:43
+[0;30mUpgrades         »[0m 2 available
+[0;30mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[0;30mProcessors       »[0m 8 cores
+[0;30mProcessor load   »[0m 3.21 (1min) - 2.85 (5min) - 3.17 (15min)
+[0;30mMemory available »[0m 10765 MB / 15695 MB (68% free)
+[0;30mSwap available   »[0m 976 MB / 976 MB (100% free)
+[0;30mAll processes    »[0m 354
+[0;30mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   38.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[0;31mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[0;31mIP adress        »[0m 192.168.100.232
+[0;31mUptime           »[0m up 8 hours, 11 minutes
+[0;31mLast update      »[0m 2022-11-14 10:03:43
+[0;31mUpgrades         »[0m 2 available
+[0;31mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[0;31mProcessors       »[0m 8 cores
+[0;31mProcessor load   »[0m 3.21 (1min) - 2.85 (5min) - 3.17 (15min)
+[0;31mMemory available »[0m 10767 MB / 15695 MB (68% free)
+[0;31mSwap available   »[0m 976 MB / 976 MB (100% free)
+[0;31mAll processes    »[0m 353
+[0;31mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   40.0°C
+NGFF             29.0°C
+B0D4             46.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[0;32mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[0;32mIP adress        »[0m 192.168.100.232
+[0;32mUptime           »[0m up 8 hours, 11 minutes
+[0;32mLast update      »[0m 2022-11-14 10:03:43
+[0;32mUpgrades         »[0m 2 available
+[0;32mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[0;32mProcessors       »[0m 8 cores
+[0;32mProcessor load   »[0m 3.21 (1min) - 2.85 (5min) - 3.17 (15min)
+[0;32mMemory available »[0m 10766 MB / 15695 MB (68% free)
+[0;32mSwap available   »[0m 976 MB / 976 MB (100% free)
+[0;32mAll processes    »[0m 353
+[0;32mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   39.0°C
+NGFF             29.0°C
+B0D4             47.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[0;33mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[0;33mIP adress        »[0m 192.168.100.232
+[0;33mUptime           »[0m up 8 hours, 11 minutes
+[0;33mLast update      »[0m 2022-11-14 10:03:43
+[0;33mUpgrades         »[0m 2 available
+[0;33mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[0;33mProcessors       »[0m 8 cores
+[0;33mProcessor load   »[0m 3.21 (1min) - 2.85 (5min) - 3.17 (15min)
+[0;33mMemory available »[0m 10768 MB / 15695 MB (68% free)
+[0;33mSwap available   »[0m 976 MB / 976 MB (100% free)
+[0;33mAll processes    »[0m 353
+[0;33mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   38.0°C
+NGFF             29.0°C
+B0D4             47.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[0;34mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[0;34mIP adress        »[0m 192.168.100.232
+[0;34mUptime           »[0m up 8 hours, 11 minutes
+[0;34mLast update      »[0m 2022-11-14 10:03:43
+[0;34mUpgrades         »[0m 2 available
+[0;34mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[0;34mProcessors       »[0m 8 cores
+[0;34mProcessor load   »[0m 3.59 (1min) - 2.94 (5min) - 3.20 (15min)
+[0;34mMemory available »[0m 10767 MB / 15695 MB (68% free)
+[0;34mSwap available   »[0m 976 MB / 976 MB (100% free)
+[0;34mAll processes    »[0m 353
+[0;34mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   38.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        29.0°C
+x86_pkg_temp     45.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[0;35mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[0;35mIP adress        »[0m 192.168.100.232
+[0;35mUptime           »[0m up 8 hours, 11 minutes
+[0;35mLast update      »[0m 2022-11-14 10:03:43
+[0;35mUpgrades         »[0m 2 available
+[0;35mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[0;35mProcessors       »[0m 8 cores
+[0;35mProcessor load   »[0m 3.59 (1min) - 2.94 (5min) - 3.20 (15min)
+[0;35mMemory available »[0m 10766 MB / 15695 MB (68% free)
+[0;35mSwap available   »[0m 976 MB / 976 MB (100% free)
+[0;35mAll processes    »[0m 353
+[0;35mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   39.0°C
+NGFF             29.0°C
+B0D4             53.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     45.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[0;36mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[0;36mIP adress        »[0m 192.168.100.232
+[0;36mUptime           »[0m up 8 hours, 11 minutes
+[0;36mLast update      »[0m 2022-11-14 10:03:43
+[0;36mUpgrades         »[0m 2 available
+[0;36mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[0;36mProcessors       »[0m 8 cores
+[0;36mProcessor load   »[0m 3.59 (1min) - 2.94 (5min) - 3.20 (15min)
+[0;36mMemory available »[0m 10768 MB / 15695 MB (68% free)
+[0;36mSwap available   »[0m 976 MB / 976 MB (100% free)
+[0;36mAll processes    »[0m 353
+[0;36mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   39.0°C
+NGFF             29.0°C
+B0D4             53.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[0;37mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[0;37mIP adress        »[0m 192.168.100.232
+[0;37mUptime           »[0m up 8 hours, 11 minutes
+[0;37mLast update      »[0m 2022-11-14 10:03:43
+[0;37mUpgrades         »[0m 2 available
+[0;37mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[0;37mProcessors       »[0m 8 cores
+[0;37mProcessor load   »[0m 3.59 (1min) - 2.94 (5min) - 3.20 (15min)
+[0;37mMemory available »[0m 10769 MB / 15695 MB (68% free)
+[0;37mSwap available   »[0m 976 MB / 976 MB (100% free)
+[0;37mAll processes    »[0m 351
+[0;37mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   38.0°C
+NGFF             29.0°C
+B0D4             45.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[40mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[40mIP adress        »[0m 192.168.100.232
+[40mUptime           »[0m up 8 hours, 11 minutes
+[40mLast update      »[0m 2022-11-14 10:03:43
+[40mUpgrades         »[0m 2 available
+[40mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[40mProcessors       »[0m 8 cores
+[40mProcessor load   »[0m 3.59 (1min) - 2.94 (5min) - 3.20 (15min)
+[40mMemory available »[0m 10770 MB / 15695 MB (68% free)
+[40mSwap available   »[0m 976 MB / 976 MB (100% free)
+[40mAll processes    »[0m 352
+[40mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   40.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[41mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[41mIP adress        »[0m 192.168.100.232
+[41mUptime           »[0m up 8 hours, 11 minutes
+[41mLast update      »[0m 2022-11-14 10:03:43
+[41mUpgrades         »[0m 2 available
+[41mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[41mProcessors       »[0m 8 cores
+[41mProcessor load   »[0m 3.59 (1min) - 2.94 (5min) - 3.20 (15min)
+[41mMemory available »[0m 10767 MB / 15695 MB (68% free)
+[41mSwap available   »[0m 976 MB / 976 MB (100% free)
+[41mAll processes    »[0m 351
+[41mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   39.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[42mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[42mIP adress        »[0m 192.168.100.232
+[42mUptime           »[0m up 8 hours, 11 minutes
+[42mLast update      »[0m 2022-11-14 10:03:43
+[42mUpgrades         »[0m 2 available
+[42mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[42mProcessors       »[0m 8 cores
+[42mProcessor load   »[0m 3.59 (1min) - 2.94 (5min) - 3.20 (15min)
+[42mMemory available »[0m 10754 MB / 15695 MB (68% free)
+[42mSwap available   »[0m 976 MB / 976 MB (100% free)
+[42mAll processes    »[0m 351
+[42mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   40.0°C
+NGFF             29.0°C
+B0D4             50.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[43mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[43mIP adress        »[0m 192.168.100.232
+[43mUptime           »[0m up 8 hours, 11 minutes
+[43mLast update      »[0m 2022-11-14 10:03:43
+[43mUpgrades         »[0m 2 available
+[43mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[43mProcessors       »[0m 8 cores
+[43mProcessor load   »[0m 3.38 (1min) - 2.91 (5min) - 3.18 (15min)
+[43mMemory available »[0m 10752 MB / 15695 MB (68% free)
+[43mSwap available   »[0m 976 MB / 976 MB (100% free)
+[43mAll processes    »[0m 351
+[43mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   40.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     44.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[44mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[44mIP adress        »[0m 192.168.100.232
+[44mUptime           »[0m up 8 hours, 11 minutes
+[44mLast update      »[0m 2022-11-14 10:03:43
+[44mUpgrades         »[0m 2 available
+[44mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[44mProcessors       »[0m 8 cores
+[44mProcessor load   »[0m 3.38 (1min) - 2.91 (5min) - 3.18 (15min)
+[44mMemory available »[0m 10751 MB / 15695 MB (68% free)
+[44mSwap available   »[0m 976 MB / 976 MB (100% free)
+[44mAll processes    »[0m 351
+[44mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   40.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        29.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[45mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[45mIP adress        »[0m 192.168.100.232
+[45mUptime           »[0m up 8 hours, 11 minutes
+[45mLast update      »[0m 2022-11-14 10:03:43
+[45mUpgrades         »[0m 2 available
+[45mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[45mProcessors       »[0m 8 cores
+[45mProcessor load   »[0m 3.38 (1min) - 2.91 (5min) - 3.18 (15min)
+[45mMemory available »[0m 10754 MB / 15695 MB (68% free)
+[45mSwap available   »[0m 976 MB / 976 MB (100% free)
+[45mAll processes    »[0m 351
+[45mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   40.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        29.0°C
+x86_pkg_temp     43.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[46mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[46mIP adress        »[0m 192.168.100.232
+[46mUptime           »[0m up 8 hours, 11 minutes
+[46mLast update      »[0m 2022-11-14 10:03:43
+[46mUpgrades         »[0m 2 available
+[46mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[46mProcessors       »[0m 8 cores
+[46mProcessor load   »[0m 3.38 (1min) - 2.91 (5min) - 3.18 (15min)
+[46mMemory available »[0m 10755 MB / 15695 MB (68% free)
+[46mSwap available   »[0m 976 MB / 976 MB (100% free)
+[46mAll processes    »[0m 351
+[46mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   39.0°C
+NGFF             29.0°C
+B0D4             48.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     46.0°C
+ - Debian GNU/Linux bookworm/sid
+
+[47mCurrent users    »[0m
+moniika  tty2     tty2             08:36    8:11m  0.01s  0.01s /usr/libexec/gnome-session-binary
+
+[47mIP adress        »[0m 192.168.100.232
+[47mUptime           »[0m up 8 hours, 11 minutes
+[47mLast update      »[0m 2022-11-14 10:03:43
+[47mUpgrades         »[0m 2 available
+[47mDisk usage       »[0m
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p4  440G   41G  377G  10% /home
+
+[47mProcessors       »[0m 8 cores
+[47mProcessor load   »[0m 3.38 (1min) - 2.91 (5min) - 3.18 (15min)
+[47mMemory available »[0m 10753 MB / 15695 MB (68% free)
+[47mSwap available   »[0m 976 MB / 976 MB (100% free)
+[47mAll processes    »[0m 351
+[47mTemperature      »[0m
+acpitz           25.0°C
+INT3400 Thermal  20.0°C
+TMEM             29.0°C
+TSKN             34.0°C
+pch_cannonlake   39.0°C
+NGFF             29.0°C
+B0D4             49.0°C
+iwlwifi_1        30.0°C
+x86_pkg_temp     45.0°C
