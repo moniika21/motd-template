@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# /etc/update-motd.d/15-debian-logo
+
+set -euo pipefail
+
 # figlet -f small debian
 # https://codegolf.stackexchange.com/questions/241412/shrink-ascii-art
 echo -e "\e[0;31m

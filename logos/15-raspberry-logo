@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# /etc/update-motd.d/15-raspberry-logo
+
+set -euo pipefail
+
 echo -e "\e[0;32m
    .~~.   .~~.
   '. \ ' ' / .'                                                             \e[0;31m  

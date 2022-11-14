@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# /etc/update-motd.d/15-raspberry-logo
+
+#set -euo pipefail
+#echo -e "\e[0;31m
+#                         ./+o+-
+#                 yyyyy- -yyyyyy+
+#              ://+//////-yyyyyyo
+#          .++ .:/++++++/-.+sss/`
+#        .:++o:  /++++++++/:--:/-
+#       o:+o+:++.`..```.-/oo+++++/
+#      .:+o:+o/.          `+sssoo+/
+# .++/+:+oo+o:`             /sssooo.
+#/+++//+:`oo+o               /::--:.
+#+/+o+++`o++o               ++////.
+# .++.o+++oo+:`             /dddhhh.
+#      .+.o+oo:.          `oddhhhh+
+#       +.++o+o``-````.:ohdhhhhh+
+#        `:o+++ `ohhhhhhhhyo++os:
+#          .o:`.syhhhhhhh/.oo++o`
+#              /osyyyyyyo++ooo+++/
+#                  ````` +oo+++o:
+#                         `oo++.
+#\e[0m"
+
+echo -e "
+      _             _        
+ _  _| |__ _  _ _ _| |_ _  _ 
+| || | '_ \ || | ' \  _| || |
+ \_,_|_.__/\_,_|_||_\__|\_,_|
+"
