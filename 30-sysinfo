@@ -27,7 +27,7 @@ os_module() {
 	fi
 
 	# Model
-	model=$(cat /proc/cpuinfo | grep "^Model" | awk -F": " '{print $2}' || true)
+	model=$(grep "^Model" /proc/cpuinfo | awk -F": " '{print $2}' || true)
 
 	echo "${model:-} - $os_version"
 	echo ""
@@ -55,7 +55,12 @@ ram_module() {
 	# RAM memory
 	mem_available=$(($(grep MemAvailable /proc/meminfo | awk '{print $2}') / 1024))
 	mem_total=$(($(grep MemTotal /proc/meminfo | awk '{print $2}') / 1024))
-	mem_pourcent_free=$(((mem_available * 100) / mem_total))
+
+	if [ $mem_total -eq 0 ]; then
+		mem_pourcent_free=$(((mem_available * 100) / 1))
+	else
+		mem_pourcent_free=$(((mem_available * 100) / mem_total))
+	fi
 
 	echo -e "${COLOR}Memory available »${OFF} $mem_available MB / $mem_total MB ($mem_pourcent_free% free)"
 }
@@ -64,7 +69,11 @@ swap_module() {
 	# SWAP memory
 	swap_available=$(($(grep SwapFree /proc/meminfo | awk '{print $2}') / 1024))
 	swap_total=$(($(grep SwapTotal /proc/meminfo | awk '{print $2}') / 1024))
-	swap_pourcent_free=$(((swap_available * 100) / swap_total))
+	if [ $swap_total -eq 0 ]; then
+		swap_pourcent_free=$(((swap_available * 100) / 1))
+	else
+		swap_pourcent_free=$(((swap_available * 100) / swap_total))
+	fi
 
 	echo -e "${COLOR}Swap available   »${OFF} $swap_available MB / $swap_total MB ($swap_pourcent_free% free)"
 }
@@ -75,7 +84,7 @@ temperature_module() {
 		temp="$(vcgencmd measure_temp | cut -c "6-9")°C"
 		echo -e "${COLOR}Temperature      »${OFF} $temp"
 	else
-		temp=$(paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/')
+		temp=$(paste <(cat /sys/class/thermal/thermal_zone*/type) <(cat /sys/class/thermal/thermal_zone*/temp) | column -s $'\t' -t | sed 's/\(.\)..$/.\1°C/' || true)
 		echo -e "${COLOR}Temperature      »${OFF}"
 		echo -e "$temp"
 	fi
@@ -116,7 +125,7 @@ users_module() {
 updates_module() {
 	# Updates available
 	updates=$(apt list --upgradable 2>/dev/null | grep -c upgradable || true)
-	last_update=$(stat /var/cache/apt/ | grep Modify | awk '{print $2" "$3}' | awk -F"." '{print $1}')
+	last_update=$(stat /var/cache/apt/ | grep Modify | awk '{print $2" "$3}' | awk -F"." '{print $1}' || true)
 
 	echo -e "${COLOR}Last update      »${OFF} $last_update"
 	echo -e "${COLOR}Upgrades         »${OFF} $updates available"
