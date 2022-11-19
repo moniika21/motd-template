@@ -113,9 +113,9 @@ disk_module() {
 	echo ""
 }
 
-users_module() {
+users_module() { # Doesn't work when they are 0 users connected on the machine (first connection)
 	# Current connected users in SSH or console
-	current_users=$(tty --silent && finger) # or who or w -h
+	current_users=$(who) # or who or w -h
 
 	echo -e "${COLOR}Current users    »${OFF}"
 	echo -e "$current_users"
@@ -133,7 +133,7 @@ updates_module() {
 
 main() {
 	os_module
-	users_module
+	#users_module
 	ip_module
 	uptime_module
 	updates_module
