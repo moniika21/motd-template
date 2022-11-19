@@ -115,7 +115,7 @@ disk_module() {
 
 users_module() {
 	# Current connected users in SSH or console
-	current_users=$(w -h) # or who
+	current_users=$(tty --silent && finger) # or who or w -h
 
 	echo -e "${COLOR}Current users    »${OFF}"
 	echo -e "$current_users"
@@ -128,7 +128,7 @@ updates_module() {
 	last_update=$(stat /var/cache/apt/ | grep Modify | awk '{print $2" "$3}' | awk -F"." '{print $1}' || true)
 
 	echo -e "${COLOR}Last update      »${OFF} $last_update"
-	echo -e "${COLOR}Upgrades         »${OFF} $updates available"
+	echo -e "${COLOR}Updates         »${OFF} $updates available"
 }
 
 main() {
