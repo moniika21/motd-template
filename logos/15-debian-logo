@@ -4,8 +4,7 @@
 
 set -euo pipefail
 
-# figlet -f small debian
-# https://codegolf.stackexchange.com/questions/241412/shrink-ascii-art
+#https://lists.debian.org/debian-devel/2001/07/msg00686.html
 echo -e "\e[0;31m
    gv_mt\$\$g.
  ,g\$\"   \"\"Y\$\",\e[0m        _     _    _           \e[0;31m

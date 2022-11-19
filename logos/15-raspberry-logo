@@ -4,6 +4,7 @@
 
 set -euo pipefail
 
+#https://github.com/dylanaraps/neofetch/blob/master/neofetch#L9936
 echo -e "\e[0;32m
    .~~.   .~~.
   '. \ ' ' / .'                                                             \e[0;31m  
