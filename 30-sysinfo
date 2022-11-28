@@ -113,15 +113,6 @@ disk_module() {
 	echo ""
 }
 
-users_module() { # Doesn't work when they are 0 users connected on the machine (first connection)
-	# Current connected users in SSH or console
-	current_users=$(who) # or who or w -h
-
-	echo -e "${COLOR}Current users    »${OFF}"
-	echo -e "$current_users"
-	echo ""
-}
-
 updates_module() {
 	# Updates available
 	updates=$(apt list --upgradable 2>/dev/null | grep -c upgradable || true)
@@ -133,7 +124,6 @@ updates_module() {
 
 main() {
 	os_module
-	#users_module
 	ip_module
 	uptime_module
 	updates_module

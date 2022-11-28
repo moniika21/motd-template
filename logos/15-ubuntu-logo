@@ -2,7 +2,7 @@
 
 # /etc/update-motd.d/15-raspberry-logo
 
-#set -euo pipefail
+set -euo pipefail
 
 #https://asciiart.website/index.php?art=logos%20and%20insignias/linux
 echo -e "\e[38;2;255;96;0m
