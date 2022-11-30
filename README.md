@@ -1,9 +1,5 @@
 # Template for motd
 
-## Colors
-
-In order to use color aliases in all modules, you **must** add the `color` file along other motd files in the folder, no need to make it executable.
-
 ## Modules
 
 They are several modules/functions in the sysinfo file that you can comment or uncomment to enable or disable diplays.
@@ -13,9 +9,14 @@ All modules are enabled by default.
 > **Warning**
 > The update module is intended for debian-based ditributions only with use of [Apt](https://en.wikipedia.org/wiki/APT_(software)).
 
+## Colors
+
+The default color displayed with or without the aliases is **green**.
+You can modify it with another color code.
+
 ## Logos
 
-There is logos in the logo folder, you must make the logo file you want executable and put it in the `/etc/update-motd.d` folder.
+There is logos in the logo folder, if you want a logo to be displayed, you just have to make the desired logo file executable and put it in the `/etc/update-motd.d` folder.
 
 I used some ascii arts found on the web or with the `neofetch` command.
 
@@ -29,7 +30,7 @@ neofetch --ascii_distro ubuntu
 
 See `man neofetch` to see all distributions logo available.
 
-I used some weird algorithms to [shrink](https://codegolf.stackexchange.com/questions/241412/shrink-ascii-art) the previous ascii arts to have a fair height logo.
+I used weird algorithms to [shrink](https://codegolf.stackexchange.com/questions/241412/shrink-ascii-art) the previous ascii arts to have a fair height logo.
 
 If you want to generate others distribution names with the same police that I used, you'll need the `figlet` command.
 

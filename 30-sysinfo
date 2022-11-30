@@ -9,12 +9,12 @@ if [ -f /etc/update-motd.d/colors ]; then
 	# shellcheck disable=SC1091
 	source /etc/update-motd.d/colors
 else
-	GREEN="\e[38;2;0;255;0m"
+	DEFAULT_COLOR="\e[38;2;0;255;0m"
 	OFF="\e[0m"
 fi
 
 # To test a custom color with "$1" arguments (put a color escape sequence)
-COLOR="${1:-$GREEN}"
+COLOR="${1:-$DEFAULT_COLOR}"
 
 os_module() {
 	# OS version
