@@ -1,20 +1,51 @@
 # Template for motd
 
-## Modules
+Each kind of module is stored in their own folder, you must make all the files you want to be displayed executable and put them in the `/etc/update-motd.d` folder.
 
-They are several modules/functions in the sysinfo file that you can comment or uncomment to enable or disable diplays.
+You can also create symbolic links to these files:
+
+```bash
+ln -s ./logos/15-ubuntu-logo /etc/update-motd.d/
+````
+
+## Custom messages
+
+### Infos
+
+They are several modules/functions in the `30-sysinfo` file that you can comment or uncomment to enable or disable diplays.
+
+```bash
+main() {
+ os_module
+ ip_module
+ uptime_module
+ updates_module
+ disk_module
+ cores_module
+ ram_module
+ swap_module
+ processes_module
+ temperature_module
+}
+```
 
 All modules are enabled by default.
 
 > **Warning**
 > The update module is intended for debian-based ditributions only with use of [Apt](https://en.wikipedia.org/wiki/APT_(software)).
 
-## Colors
+#### Colors
 
 The default color displayed with or without the aliases is **green**.
-You can modify it with another color code.
+You can modify it with another color code. You can find a buch of color codes in the `.colors` file in my `shell-config-template` repository on Github.
 
-## Logos
+In the `demo` folder, you have a sample off all colors code available and the menus rendering associated.
+
+```bash
+cat demo.txt
+```
+
+### Logos
 
 There is logos in the logo folder, if you want a logo to be displayed, you just have to make the desired logo file executable and put it in the `/etc/update-motd.d` folder.
 
