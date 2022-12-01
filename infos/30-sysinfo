@@ -119,7 +119,7 @@ updates_module() {
 	last_update=$(stat /var/cache/apt/ | grep Modify | awk '{print $2" "$3}' | awk -F"." '{print $1}' || true)
 
 	echo -e "${COLOR}Last update      »${OFF} $last_update"
-	echo -e "${COLOR}Updates         »${OFF} $updates available"
+	echo -e "${COLOR}Updates          »${OFF} $updates available"
 }
 
 main() {
