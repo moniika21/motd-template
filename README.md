@@ -66,7 +66,7 @@ I used weird algorithms to [shrink](https://codegolf.stackexchange.com/questions
 If you want to generate others distribution names with the same police that I used, you'll need the `figlet` command.
 
 ```bash
- figlet -f small name_of_distribution
+ figlet -f small <name_of_distribution>
 ```
 
 ## Disable defaults messages
