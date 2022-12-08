@@ -5,7 +5,7 @@ Each kind of module is stored in their own folder, you must make all the files y
 You can also create symbolic links to these files:
 
 ```bash
-ln -s ./logos/15-ubuntu-logo /etc/update-motd.d/
+ln -s $(pwd)/logos/15-ubuntu-logo /etc/update-motd.d/
 ````
 
 ## Custom messages
