@@ -69,6 +69,10 @@ If you want to generate others distribution names with the same police that I us
  figlet -f small <name_of_distribution>
 ```
 
+```bash
+ figlet -f small NAME_OF_DISTRIBUTION
+```
+
 ## Disable defaults messages
 
 ### Motd default message
